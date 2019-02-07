@@ -30,10 +30,10 @@
 ###### To run Cucumber tests with custom runTests task and with chrome, type:
  * '-Dbrowser=chrome runTests'
 
-###### To run Cucumber tests with default browser type:
+###### To run Cucumber tests with default browser, type:
 * 'clean test'
 
-###### To run Cucumber tests with chrome browser type:
+###### To run Cucumber tests with chrome browser, type:
 * 'clean -Dbrowser=chrome test'
 
 #### With IDE (JUnit):
