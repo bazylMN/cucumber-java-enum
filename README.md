@@ -27,7 +27,7 @@
 ###### To run Cucumber tests with custom runTests task and with default browser, type:
  * 'runTests'
 
-###### To run Cucumber tests with custom runTests task and with chroem, type:
+###### To run Cucumber tests with custom runTests task and with chrome, type:
  * '-Dbrowser=chrome runTests'
 
 ###### To run Cucumber tests with default browser type:
