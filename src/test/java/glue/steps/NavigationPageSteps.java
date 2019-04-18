@@ -2,12 +2,11 @@ package glue.steps;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
-import cucumber.api.java8.En;
 import glue.enums.UrlEnum;
 import glue.pageObjects.NavigationPageObjects;
 import org.junit.Assert;
 
-public class NavigationPageSteps implements En {
+public class NavigationPageSteps {
 
     private String urlToGo;
     private NavigationPageObjects navigationPageObjects;
